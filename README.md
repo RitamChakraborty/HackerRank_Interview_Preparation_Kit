@@ -11,6 +11,7 @@
 - [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
 - [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)
 - [Minimum Swaps](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+- [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 
 ## [Dictionaries and Hashmaps](https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges)
 
