@@ -7,7 +7,7 @@
 - [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
 
 ## [Arrays](https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges)
-
+- [2D Array-DS](https://www.hackerrank.com/challenges/2d-array/problem)
 
 ## [Dictionaries and Hashmaps](https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges)
 
