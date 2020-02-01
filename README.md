@@ -2,6 +2,7 @@
 
 ## [Warm-up Challenges](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
 - [Stock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+- [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 
 ## [Arrays](https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges)
 
