@@ -8,6 +8,7 @@
 
 ## [Arrays](https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges)
 - [2D Array-DS](https://www.hackerrank.com/challenges/2d-array/problem)
+- [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
 
 ## [Dictionaries and Hashmaps](https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges)
 
