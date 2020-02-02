@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class Solution {
     private static int minimumAbsoluteDifference(int[] arr) {
         Arrays.sort(arr);
         int min = Integer.MAX_VALUE;
