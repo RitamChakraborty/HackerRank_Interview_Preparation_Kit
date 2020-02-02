@@ -43,6 +43,7 @@
 
 ## [Greedy Algorithm](https://www.hackerrank.com/interview/interview-preparation-kit/greedy-algorithms/challenges)
 - [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
+- [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)
 
 ## [Dynamic Programming](https://www.hackerrank.com/interview/interview-preparation-kit/dynamic-programming/challenges)
 
