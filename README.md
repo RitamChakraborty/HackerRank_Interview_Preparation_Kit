@@ -37,6 +37,7 @@
 ## [Sorting](https://www.hackerrank.com/interview/interview-preparation-kit/sorting/challenges)
 - [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)
 - [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+- [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
 
 ## [Greedy Algorithm](https://www.hackerrank.com/interview/interview-preparation-kit/greedy-algorithms/challenges)
 
