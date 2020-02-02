@@ -30,6 +30,7 @@
 
 ## [String Manipulation](https://www.hackerrank.com/interview/interview-preparation-kit/strings/challenges)
 - [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)
+- [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
 
 ## [Search]()
 
