@@ -17,7 +17,7 @@
 
 
 ## [Linked List](https://www.hackerrank.com/interview/interview-preparation-kit/linked-lists/challenges)
-
+- [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem)
 
 ## [Stacks and Queues](https://www.hackerrank.com/interview/interview-preparation-kit/stacks-queues/challenges)
 
